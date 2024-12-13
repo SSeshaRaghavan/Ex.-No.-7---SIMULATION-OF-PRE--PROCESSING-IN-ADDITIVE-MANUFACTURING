@@ -39,14 +39,14 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![WhatsApp Image 2024-12-13 at 09 54 33_664936b5](https://github.com/user-attachments/assets/5c3961f6-7771-4d4e-9720-fd5e5305c549)
+![WhatsApp Image 2024-12-13 at 10 04 06_f78f5e00](https://github.com/user-attachments/assets/00bba128-48a0-4481-878e-fc9f3a3bb310)
+![WhatsApp Image 2024-12-13 at 10 10 19_96357d3b](https://github.com/user-attachments/assets/586f1d69-c0ca-4dcd-ac27-bfbe8e392884)
 
 ## Output:
-
-### Name:
-### Register Number:
+![Screenshot 2024-12-13 090411](https://github.com/user-attachments/assets/b80e35d9-4929-44d6-83a6-f97c68299369)
+### Name:S Sesha Raghavan
+### Register Number:24900320
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
